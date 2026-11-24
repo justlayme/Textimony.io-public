@@ -37,3 +37,7 @@ This repository is a public overview for Textimony.io. It intentionally does not
 
 The live site is the source of truth for current product information.
 
+
+---
+
+**Built by [Wentropy Labs](https://wentropylabs.com)** · [Grey Mirror](https://thegreymirror.com), the flagship text message analyzer for relationships · [Unbubble](https://thegreymirror.com/grey-mirror/unbubble), the 100% on-device iPhone message exporter · [Textimony](https://textimony.io) · [LinkedIn](https://www.linkedin.com/company/wentropy-labs) · [Crunchbase](https://www.crunchbase.com/organization/wentropy-labs)
